@@ -19,6 +19,6 @@ const users = [{
 ## Criteria Tugas
 - pastikan nama nama nama yang ada di dalam array tsb itu unique.
 - id sequential.
-- di endpoint list, ada filter berdasarkan tanggal lahir.
+- di endpoint list, ada filter berdasarkan range tanggal lahir, dan berdasarkan nama.
 - kumpulkan tugas dengan membuat branch masing masing dengan menggunakan nama kalian dari repository ini. ex: Fauzi_Fadhillah
 - cukup simpan data array user di dalam variable global.
