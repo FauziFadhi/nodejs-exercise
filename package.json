@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start-prod": "NODE_ENV=production node ./src/server.js",
+    "start-dev": "nodemon ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FauziFadhi/nodejs-exercise.git"
+  },
+  "author": "Philip Bagus Kristianto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FauziFadhi/nodejs-exercise/issues"
+  },
+  "homepage": "https://github.com/FauziFadhi/nodejs-exercise#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2",
+    "nodemon": "^2.0.19"
+  }
+}
