@@ -7,12 +7,14 @@
 - birthDate string(YYYY-mm-dd format)
 
 ### Example
-```const users = [{
+```
+const users = [{
   id: 1,
   name: 'Fauzi Fadhillah',
   age: 17,
   birthDate: '2000-01-01',
-}]```
+}]
+```
 
 ## Criteria Tugas
 - pastikan nama nama nama yang ada di dalam array tsb itu unique.
